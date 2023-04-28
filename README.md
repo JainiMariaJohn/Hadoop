@@ -1,2 +1,2 @@
 # Hadoop
-Basic operations and commands in linux.
+Basic operations, commands in linux and hadoop
